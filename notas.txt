@@ -1,0 +1,9 @@
+token admin: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDQyYTUyYzcwZjVmYjEyOWExY2ZiNDkiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2ODIwODkyNjB9.nuPfxNhBMUFV3xuq2k7n63fiOY6kKixlJ62qayGjQLM
+
+
+.env:
+DB_URI=mongodb+srv: 
+PORT = 3000
+PUBLIC_URL=http://localhost:3000
+JWT_SECRET=mi_llave_maestr
+SLACK_WEBHOOK=https://hooks.slack.com/services
